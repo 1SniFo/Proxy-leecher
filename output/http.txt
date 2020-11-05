@@ -1,1 +1,1 @@
-http proxies output
+http(s) proxies output
