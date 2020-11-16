@@ -7,7 +7,7 @@ Download proxies from different API and Leeching sites.
 
 
 # Donate
-Bitcoin: 1AKyvm6py7Y1fCuHktwey9CgiaoHFuFaov
+Bitcoin: 1DAsb5VhKhYugKtEH5JSTimijYiCZaVEdH
 
 # Terms and conditions
 This is for educational purpose only. I'm not responsible for any illegal use. [MIT License](LICENSE)
